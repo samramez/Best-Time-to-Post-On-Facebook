@@ -1,0 +1,9 @@
+/*.loggedout{
+	display: block;
+}
+.loggedin{
+	display: none;
+}*/
+body {
+	background-size: auto;
+}
